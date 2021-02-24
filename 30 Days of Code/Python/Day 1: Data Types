@@ -1,0 +1,15 @@
+i = 4
+d = 4.0
+s = 'HackerRank '
+i2=input()
+i_2=int(i2)
+d2=input()
+d_2=float(d2)
+s2=input()
+s_2=str(s2)
+sum=i+i_2
+print(sum)
+sum=d+d_2
+print(sum)
+sum =s+s_2
+print(sum)
